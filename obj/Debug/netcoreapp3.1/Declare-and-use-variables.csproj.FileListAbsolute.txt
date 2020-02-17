@@ -1,0 +1,11 @@
+/Users/Hi/Development/C#/Declare-and-use-variables/bin/Debug/netcoreapp3.1/Declare-and-use-variables
+/Users/Hi/Development/C#/Declare-and-use-variables/bin/Debug/netcoreapp3.1/Declare-and-use-variables.deps.json
+/Users/Hi/Development/C#/Declare-and-use-variables/bin/Debug/netcoreapp3.1/Declare-and-use-variables.runtimeconfig.json
+/Users/Hi/Development/C#/Declare-and-use-variables/bin/Debug/netcoreapp3.1/Declare-and-use-variables.runtimeconfig.dev.json
+/Users/Hi/Development/C#/Declare-and-use-variables/bin/Debug/netcoreapp3.1/Declare-and-use-variables.dll
+/Users/Hi/Development/C#/Declare-and-use-variables/bin/Debug/netcoreapp3.1/Declare-and-use-variables.pdb
+/Users/Hi/Development/C#/Declare-and-use-variables/obj/Debug/netcoreapp3.1/Declare-and-use-variables.csprojAssemblyReference.cache
+/Users/Hi/Development/C#/Declare-and-use-variables/obj/Debug/netcoreapp3.1/Declare-and-use-variables.AssemblyInfoInputs.cache
+/Users/Hi/Development/C#/Declare-and-use-variables/obj/Debug/netcoreapp3.1/Declare-and-use-variables.AssemblyInfo.cs
+/Users/Hi/Development/C#/Declare-and-use-variables/obj/Debug/netcoreapp3.1/Declare-and-use-variables.dll
+/Users/Hi/Development/C#/Declare-and-use-variables/obj/Debug/netcoreapp3.1/Declare-and-use-variables.pdb
